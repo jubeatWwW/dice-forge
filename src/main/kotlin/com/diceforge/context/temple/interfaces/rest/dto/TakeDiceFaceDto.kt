@@ -2,7 +2,7 @@ package com.diceforge.context.temple.interfaces.rest.dto
 
 import com.diceforge.context.player.domain.PlayerId
 import com.diceforge.context.temple.application.TakeDiceFaceCommand
-import com.diceforge.context.temple.domain.DiceFaceId
+import com.diceforge.context.diceforge.domain.DiceFaceId
 import com.diceforge.context.temple.domain.TempleId
 
 data class TakeDiceFaceDto(

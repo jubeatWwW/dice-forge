@@ -2,7 +2,7 @@ package com.diceforge.context.temple.application
 
 import com.diceforge.common.cqrs.Command
 import com.diceforge.context.player.domain.PlayerId
-import com.diceforge.context.temple.domain.DiceFaceId
+import com.diceforge.context.diceforge.domain.DiceFaceId
 import com.diceforge.context.temple.domain.DiceFaceTaken
 import com.diceforge.context.temple.domain.TempleId
 
